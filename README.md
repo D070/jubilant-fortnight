@@ -8,22 +8,20 @@ Final project for the Building AI course
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+ In official tasks , if document verification is done manually then it'll be a laborious and time consuming process . So , it can be automated using AI.
 
 
 ## Background
-
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
-
+This idea can resolve the problem of time wastage . In people's daily lives there are a lot of tasks whivh require verification of certain documents. If this task is automated by feeding the system with proper training data then both time and money can be saved.
+This one is a frequent problem as in most of the countries this is a basic need. In a broader view , this eases multiple tasks:
+-less manpower required and people can be engaged in more productive work
+-no time wastage 
+-saving of paper wasted in manual document verification 
+I am personally motivated to find a solution to this problem as this process has been troublesome for me too!
 
 ## How is it used?
-
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Appropriate machines can be installed at offices where this task takes place  . Correctly filled documents can be used as training data for these machines ( or more specifically e-documents as we need to save paper too!) and just like in supervised machine learning , here too the documents eing submitted by people can be classified as correctly filled or the ones which can be 'approved' or wrongly filled that is the ones that are 'disapproved'. 
+This can be brought into use in places like banks , schools , goverment offices and is really time saving technique for the employees as well as the other people who are there to get their work done. 
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
