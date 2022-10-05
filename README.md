@@ -23,24 +23,7 @@ I am personally motivated to find a solution to this problem as this process has
 Appropriate machines can be installed at offices where this task takes place  . Correctly filled documents can be used as training data for these machines ( or more specifically e-documents as we need to save paper too!) and just like in supervised machine learning , here too the documents eing submitted by people can be classified as correctly filled or the ones which can be 'approved' or wrongly filled that is the ones that are 'disapproved'. 
 This can be brought into use in places like banks , schools , goverment offices and is really time saving technique for the employees as well as the other people who are there to get their work done. 
 ![![ai img](https://user-images.githubusercontent.com/114734064/194020023-5986435b-f884-4a70-a059-81c2c1e3d752.jpg)
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
+![ai img 2](https://user-images.githubusercontent.com/114734064/194040596-2170934e-b057-46e6-9362-229df395e05c.png)
 
 ## Data sources and AI methods
 Data is self created and based on prior knowledge .
@@ -56,9 +39,6 @@ In order fully automate this process either more advanced AI techniques are requ
 
 
 ## Acknowledgments
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nopaperforms.com%2Fpost-application-automation%2Fverify-student-documents-online%2F&psig=AOvVaw1SLnFdfdHlvDFhZuSVAakq&ust=1665045526578000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIiLsIjYyPoCFQAAAAAdAAAAABAK
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.quora.com%2FWhat-is-document-verification&psig=AOvVaw1SLnFdfdHlvDFhZuSVAakq&ust=1665045526578000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIiLsIjYyPoCFQAAAAAdAAAAABAP
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
