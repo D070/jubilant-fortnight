@@ -22,14 +22,7 @@ I am personally motivated to find a solution to this problem as this process has
 ## How is it used?
 Appropriate machines can be installed at offices where this task takes place  . Correctly filled documents can be used as training data for these machines ( or more specifically e-documents as we need to save paper too!) and just like in supervised machine learning , here too the documents eing submitted by people can be classified as correctly filled or the ones which can be 'approved' or wrongly filled that is the ones that are 'disapproved'. 
 This can be brought into use in places like banks , schools , goverment offices and is really time saving technique for the employees as well as the other people who are there to get their work done. 
-
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
+![![ai img](https://user-images.githubusercontent.com/114734064/194020023-5986435b-f884-4a70-a059-81c2c1e3d752.jpg)
 This is how you create code examples:
 ```
 def main():
@@ -50,22 +43,16 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+Data is self created and based on prior knowledge .
+As the task is based on labelling the given document as 'correct' therefore the best method which can be used is supervised machine learning . Or for classification of documents as 'correct' and 'not correct' , classifiers using naive baiyes classifier , nearest neighbour classifier etc can be used.
 
 ## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+Sometimes , during such tasks there are certain errors in documents which can't be pointed out by machines and require manual assistance . For example , if while entering certain detail , the word limit exceeds , the how to fit in the sentences using abbreviations etc can be a solution , but this can be told by a human being only . For this to me made possible by machines , the current techonology needs to be improved .
+Proper assistance is required in case any document is rejected and there should be proper information about what has to be done next and currently machines can't do that.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+In order fully automate this process either more advanced AI techniques are required or a lot of training data has to be used in order to train the machine to fully guide the person for the entire proces i.e from submitting any document for verification to correcting it appropriately , so that this can become human assistance free process. 
 
 
 ## Acknowledgments
